@@ -10,6 +10,6 @@ class Main{
         while (in.hasNext()){
 
         }
-
+        System.out.println(1111);
     }
 }
