@@ -14,3 +14,7 @@ class Main{
         System.out.println(1111);
     }
 }
+
+class TEST{
+    private String name;
+}
