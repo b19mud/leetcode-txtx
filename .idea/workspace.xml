@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="662c33d1-6fcf-44fe-9857-f087e8619955" name="Default Changelist" comment="" />
+    <list default="true" id="662c33d1-6fcf-44fe-9857-f087e8619955" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596873717639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试公司的问题">
+      <created>1598180386868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598180386868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试公司的问题">
+      <created>1598180627684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598180627684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,48 +122,65 @@
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
     <MESSAGE value="test branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="test branch" />
+    <MESSAGE value="测试公司的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试公司的问题" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596875760505">
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598180471679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596875760505" />
-    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1596873716759">
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598180471679" />
+    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1598180626800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596873716759" />
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598180626800" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596873676531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596873676531" />
-    <state x="761" y="277" key="FileChooserDialogImpl" timestamp="1596875745801">
+    <state x="761" y="277" key="FileChooserDialogImpl" timestamp="1598180451953">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="761" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596875745801" />
-    <state x="621" y="285" key="NewModule_or_Project.wizard" timestamp="1596875751803">
+    <state x="761" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598180451953" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1598180195168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="621" y="285" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596875751803" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1596875757561">
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598180195168" />
+    <state x="669" y="235" key="MultipleFileMergeDialog" timestamp="1598180195185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596875757561" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596873814147">
+    <state x="669" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598180195185" />
+    <state x="621" y="285" key="NewModule_or_Project.wizard" timestamp="1598180455149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596873814147" />
+    <state x="621" y="285" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598180455149" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1598180457155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598180457155" />
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog" timestamp="1598180507228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598180507228" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598180656393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598180656393" />
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596873272244">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596873272244" />
+    <state x="722" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1598180432472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="232" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598180432472" />
     <state x="744" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1596875108084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="744" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596875108084" />
-    <state x="356" y="197" key="new project wizard" timestamp="1596875742507">
+    <state x="356" y="197" key="new project wizard" timestamp="1598180448041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="356" y="197" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596875742507" />
+    <state x="356" y="197" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598180448041" />
   </component>
 </project>
