@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-class Main{
+public class Main{
 
     public static void Main(String[] args){
 
@@ -14,7 +14,7 @@ class Main{
         System.out.println(1111);
     }
 }
-
 class TEST{
     private String name;
+    private String password;
 }
